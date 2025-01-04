@@ -51,7 +51,7 @@ export function RefundModal({ isOpen, onClose, amount }: RefundModalProps) {
             </div>
             <div className="aspect-video bg-black rounded-lg overflow-hidden">
               <iframe
-                src={`https://player.twitch.tv/?channel=sodapoppin&parent=${window.location.hostname}&autoplay=true&muted=true`}
+                src={`https://player.twitch.tv/?channel=biblioteketsundbyberg&parent=${window.location.hostname}&autoplay=true&muted=true`}
                 height="100%"
                 width="100%"
                 allowFullScreen
